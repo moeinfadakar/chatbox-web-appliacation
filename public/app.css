@@ -1,0 +1,48 @@
+
+
+:root{
+     --font:   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+}
+
+
+.chatbody{
+
+height: 34rem !important;
+background: url(images.jfif);
+
+}
+
+.SendBtn{
+
+    border:  .5px solid black !important;
+background-color: white !important;
+}
+.title-header{
+height: 3rem !important;
+display: flex;
+justify-content: center;
+align-items: center;
+background: #32A287;
+color: white !important;
+font-family: var(--font) !important;
+
+}
+.title-header h4{
+
+    font-weight: bold !important;
+font-family: "B Yekan+";
+}
+
+.footerSide{
+    height: 3rem !important;
+    background: #32A287 !important;
+
+}
+
+.bg-messages{
+
+    background-color: #32A287 !important;
+width: 100% !important;
+    font-family: "B Yekan+";
+}
+
