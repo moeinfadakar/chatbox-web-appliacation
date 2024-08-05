@@ -31,12 +31,4 @@
 
 * ![Home](./screenpro41.png)
 
-## I use:
 
-* [bootstrap](https://getbootstrap.com/)
-* [laravel](https://laravel.com/)
-* [php](https://www.php.net/)
-* [css](https://css3.com/)
-* [html](https://html.com/)
-* [vscode](https://code.visualstudio.com/)
-* [phpStorm](https://www.jetbrains.com/phpstorm/)
