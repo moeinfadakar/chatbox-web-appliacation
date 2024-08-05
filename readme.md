@@ -1,7 +1,7 @@
 # Lobby chat box 
 
 
-## waht is the Lobby box 
+## what is the Lobby box 
 
  * This is a messaging app that allows you to send text messages (for now) !
 
